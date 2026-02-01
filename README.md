@@ -1,6 +1,8 @@
 # hotel-booking-cancellation-analysis-
 Analyzed hotel booking cancellations and quantified revenue risk using Python and Pandas
 
+Topics:
+python, pandas, data-analysis, eda, hotel-bookings
 
 ## Project Overview
 This project analyzes hotel booking data to understand cancellation patterns and quantify revenue loss caused by canceled bookings.  
